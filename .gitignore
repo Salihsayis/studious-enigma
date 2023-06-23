@@ -13,7 +13,8 @@ captures/
 .externalNativeBuild/
 .cxx/
 *.apk
-output.json
+salih.json
+["salihsayis00","salihsayis00","salihsayis00","salihsayis00","salihsayis00"]
 
 # IntelliJ
 *.iml
